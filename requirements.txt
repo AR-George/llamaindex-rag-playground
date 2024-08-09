@@ -1,0 +1,5 @@
+llama-index
+python-dotenv
+azure-identity
+llama_index.llms.azure_openai
+llama_index.embeddings.azure_openai
